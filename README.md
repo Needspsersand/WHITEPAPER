@@ -1,9 +1,5 @@
 # TomaTok Whitepaper
 
-**The Global Web3 Game Aggregator Platform**
-
----
-
 ## 1. Legal Disclaimer
 
 This whitepaper has been prepared for **informational purposes only** and outlines the general plans and projected schedule of the TOTT project. It does not constitute a prospectus, an offer or solicitation of securities, an investment solicitation, or financial advice in any jurisdiction.
