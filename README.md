@@ -424,10 +424,10 @@ Registered games are displayed across various exposure slots within the TomaTok 
 
 ### Downloads
 
+
 | Document | English | Korean |
 | --- | --- | --- |
-| Game Submission Form | [PDF]([TomaTok_Game_Submission_Form.pdf](https://github.com/user-attachments/files/28000431/TomaTok_Game_Submission_Form.pdf)
-) | [PDF](https://app.gitbook.com/o/QrYNBesNnoPxnC03XosR/s/FxNcZaxykAXmxpI5YGQ0/game-submission-form-ko) |
+| Game Submission Form | [TomaTok_Game_Submission_Form_EN](https://github.com/user-attachments/files/28001077/TomaTok_Game_Submission_Form_EN.pdf)|[TomaTok_Game_Submission_Form](https://github.com/user-attachments/files/28000709/TomaTok_Game_Submission_Form.pdf)|
 
 ### Contact
 
